@@ -1,2 +1,4 @@
 # Dog-Breed-Database
-Database of all the dog breeds in the world.
+Database of pure breed and hybrid dog breed in the world.
+Comiplation of the following resources; www.dogell.com, 
+www.hepper.com, wagwalking.com, www.dogbreedinfo.com.
